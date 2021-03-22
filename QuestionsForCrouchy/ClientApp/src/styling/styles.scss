@@ -1,0 +1,10 @@
+body {
+    font-family:Candara;
+    background-image: url('./Background.png');
+    color: black;
+    font-weight: 500;
+}
+
+@import './containers';
+@import './widths';
+@import './margins';

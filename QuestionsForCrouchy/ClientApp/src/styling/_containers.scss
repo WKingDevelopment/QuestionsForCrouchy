@@ -1,0 +1,33 @@
+.sa  {
+    justify-content: space-around;
+}
+
+.sb {
+    justify-content: space-between;
+}
+
+.baseline {
+    align-items: baseline;
+}
+
+.h {
+    display: flex;
+    flex-direction: row;
+}
+
+.h-centre {
+    justify-content: center;
+}
+
+.v {
+    display: flex;
+    flex-direction: column;
+}
+
+.border {
+    background-color: white;
+    border-radius: 0.3rem 0.3rem;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    margin: 0.25rem 0 0 0.5rem;
+    padding: 1rem;
+}
